@@ -1,53 +1,60 @@
 # Charte du Numérique Responsable – GreenSoft Solutions
 
-Cette charte présente les engagements simples que GreenSoft Solutions adopte pour réduire son impact environnemental et encourager de meilleures pratiques numériques au sein de l’entreprise. Elle s’appuie sur les actions et objectifs décrits dans la stratégie de durabilité numérique.
+Cette charte est basée sur la stratégie de communication, de formation et de documentation définie pour améliorer la durabilité numérique chez GreenSoft Solutions. Elle résume les engagements que l’entreprise met en place pour réduire son impact environnemental et encourager de meilleures pratiques numériques dans son équipe.
 
 ---
 
-## 1. Réduire les émissions numériques
-L’entreprise s’engage à diminuer l’énergie consommée par ses systèmes et ses services. Cela passe par l’utilisation d’équipements plus efficaces, une meilleure gestion des serveurs et l’évitement du gaspillage énergétique. Réduire les émissions permet d’alléger l’empreinte carbone globale de GreenSoft.
+## 1. Communiquer clairement et régulièrement
+GreenSoft s’engage à informer les employés de façon simple et régulière grâce à :
+- des bulletins mensuels,
+- un tableau de bord interne avec les indicateurs clés,
+- un mini-rapport annuel pour les clients et partenaires.
+
+**Pourquoi cet engagement ?**  
+Pour que tout le monde comprenne les actions écologiques de l’entreprise, reste motivé, et participe activement à la démarche de durabilité.
 
 ---
 
-## 2. Encourager la sobriété fonctionnelle
-GreenSoft veut développer des logiciels plus légers et mieux optimisés pour éviter la surconsommation des ressources numériques. Cela inclut :
-- limiter les calculs inutiles,
-- réduire les requêtes répétitives,
-- privilégier des solutions simples et efficaces.
-
-Moins un logiciel consomme, moins il produit d’impacts environnementaux.
-
----
-
-## 3. Favoriser de bonnes pratiques internes
-L’entreprise souhaite que chaque employé adopte des gestes responsables au quotidien, comme :
-- nettoyer son stockage,
-- réduire les pièces jointes lourdes,
-- éteindre les appareils non utilisés.
-
-Ces gestes simples, répétés par tout le personnel, contribuent directement à diminuer l’impact numérique.
-
----
-
-## 4. Allonger la durée de vie du matériel
-GreenSoft veut réduire le remplacement inutile des équipements. Cela signifie :
-- entretenir le matériel,
-- le réutiliser ou le réparer lorsque possible,
-- recycler correctement les appareils en fin de vie.
-
-Allonger la durée de vie des ordinateurs et accessoires est un geste essentiel pour réduire les déchets électroniques.
-
----
-
-## 5. Promouvoir la transparence et la sensibilisation
-L’entreprise s’engage à communiquer régulièrement ses progrès à travers des tableaux de bord internes et des mini-rapports externes. La sensibilisation des employés fait partie de cette démarche, notamment grâce à :
-- des courtes capsules vidéo,
+## 2. Former les employés au numérique durable
+L’entreprise met en place un plan de formation comprenant :
+- une introduction au numérique durable,
+- des modules sur les bonnes pratiques au travail,
+- des capsules vidéo,
 - des ateliers pratiques,
-- des quiz d’évaluation,
-- une certification interne “Employé responsable du numérique”.
+- des quiz,
+- une certification “Employé responsable du numérique”.
 
-GreenSoft croit que la transparence et la formation continue sont essentielles pour créer une culture durable à long terme.
+**Pourquoi cet engagement ?**  
+Parce que les employés doivent comprendre ce qu’ils doivent faire et pourquoi cela compte. Une bonne formation aide chacun à adopter de meilleures pratiques au quotidien.
 
 ---
 
-Cette charte peut être mise à jour chaque année afin d’intégrer de nouvelles actions de durabilité numérique.
+## 3. Encourager de bonnes pratiques au quotidien
+GreenSoft encourage chaque employé à :
+- éviter le stockage inutile,
+- nettoyer régulièrement ses fichiers,
+- appliquer des gestes simples et faciles à mettre en place.
+
+**Pourquoi cet engagement ?**  
+Parce que des petits gestes répétés par tous ont un impact positif direct sur l’empreinte numérique globale de l’entreprise.
+
+---
+
+## 4. Documenter les actions durablement
+GreenSoft crée un dépôt GitHub de test pour :
+- organiser l’information,
+- montrer ses engagements,
+- centraliser les documents liés au numérique responsable.
+
+Ce dépôt contient :  
+- une charte du numérique responsable (le présent document),  
+- un exemple de guide ou de procédure,  
+- un README expliquant la démarche.
+
+**Pourquoi cet engagement ?**  
+Pour assurer la traçabilité, faciliter l’accès à l’information et montrer un exemple concret de documentation durable.
+
+---
+
+## Conclusion
+Cette charte reflète les engagements concrets de GreenSoft Solutions envers un numérique plus responsable. Elle peut être mise à jour selon l’évolution des besoins et des objectifs de durabilité de l’entreprise.
