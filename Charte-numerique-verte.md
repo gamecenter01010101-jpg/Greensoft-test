@@ -40,21 +40,5 @@ Parce que des petits gestes répétés par tous ont un impact positif direct sur
 
 ---
 
-## 4. Documenter les actions durablement
-GreenSoft crée un dépôt GitHub de test pour :
-- organiser l’information,
-- montrer ses engagements,
-- centraliser les documents liés au numérique responsable.
-
-Ce dépôt contient :  
-- une charte du numérique responsable (le présent document),  
-- un exemple de guide ou de procédure,  
-- un README expliquant la démarche.
-
-**Pourquoi cet engagement ?**  
-Pour assurer la traçabilité, faciliter l’accès à l’information et montrer un exemple concret de documentation durable.
-
----
-
 ## Conclusion
 Cette charte reflète les engagements concrets de GreenSoft Solutions envers un numérique plus responsable. Elle peut être mise à jour selon l’évolution des besoins et des objectifs de durabilité de l’entreprise.
